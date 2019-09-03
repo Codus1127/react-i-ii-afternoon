@@ -34,7 +34,8 @@
   position: absolute;
   top: 2%;
   right:10%;
-  font-size: 5rem;
+  font-size: 1rem;
+  color: darkgray;
 }
 
 .header {
@@ -48,12 +49,13 @@
   position: absolute;
   top: 5%;
   left: 10%;
-  font-size: 6rem;
+  font-size: 2rem;
+  color: black;
 
 }
 
 .name {
-  font-size: 8rem;
+  font-size: 3rem;
   position: absolute;
   left: 15%;
   top: 22%;
@@ -61,7 +63,7 @@
 }
 
 .info {
-  font-size: 6rem;
+  font-size: 2rem;
   position: absolute;
   left: 30%;
   top: 35%;
@@ -70,7 +72,7 @@
 
 
 .favorites {
-  font-size: 6rem;
+  font-size: 2rem;
   position: absolute;
   left: 30%;
   top: 42%;
@@ -80,13 +82,13 @@
   position: absolute;
   top: 75%;
   left: 15%;
-  font-size: 5rem;
+  font-size: 1rem;
 }
 
 .button2 {
   position: absolute;
   top: 75%;
   right: 15%;
-  font-size: 5rem;
+  font-size: 1rem;
 }
 
